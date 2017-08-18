@@ -1,2 +1,2 @@
-# MDOS
-Monitoring Data Open Standard
+# CTOS
+Computer Telemetry Open Standard
